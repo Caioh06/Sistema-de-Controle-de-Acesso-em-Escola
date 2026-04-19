@@ -1,1 +1,2 @@
 # Sistema-de-Controle-de-Acesso-em-Escola
+## O projeto consiste no desenvolvimento de uma solução tecnológica integrada a um banco de dados relacional para a gestão de segurança e controle de fluxo em instituições de ensino. O sistema opera via aplicativo móvel e web, conectando-se diretamente a catracas físicas para o monitoramento em tempo real de entradas e saídas de diferentes perfis de usuários: alunos, responsáveis e funcionários.
